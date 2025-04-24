@@ -1,0 +1,55 @@
+Decarabian over Oloron
+
+
+Fan-interpretation of Decarabian from Old Mondstadt, continuing Anilyan's Old Mondstadt character series posted on gamebanana. 
+Ngl, I'm starting to see why Amos fell in love xD
+
+Outfit is adapted from Eternal Return, but with modifications. Full list of notes at the end.
+Cape is toggable, and there is a version with Ororon's hair.
+
+
+CREDITS:
+- Model and textures by Anilyan https://gamebanana.com/members/2591983 | https://anilyan.carrd.co/
+- Weights by Mimo4e https://gamebanana.com/members/2685246 | https://mimo4e.carrd.co/
+- Outfit parts from Eternal Return, that were changed and retextured for more shadows and better image quality
+- Crown/Halo adapted from Sunday's crown from HSR
+
+
+Terms of use:
+- Mods featured have to credit all authors involved. This can't be redistributed or sold. You can't post changed versions of our mods without permission.
+- 精选模组必须归功于所有参与的作者。 这不能重新分发或出售。 未经许可，您不能发布我们模组的更改版本。
+- 주요 모드는 참여하는 모든 작성자의 이름으로 표시되어야 합니다. 이는 재배포나 판매가 불가능합니다. 귀하는 허가 없이 모드의 변경된 버전을 게시할 수 없습니다.
+- Full terms of use | 使用条款 | 이용 약관:
+	(eng) https://genshin-modding.notion.site/Terms-of-use-e1977c8ab5554624942c9442e581eafa?pvs=4
+	(cn) https://genshin-modding.notion.site/8126e744bd6747db967e35dbc8206252?pvs=4
+	(kr) https://genshin-modding.notion.site/0519d622a05c471b9f58b967f3060ad0?pvs=4
+
+
+
+Btw, if you enjoy SFW mods, there's a discord server focused on that:
+https://discord.gg/uGeHtvHWm8
+
+
+INSTRUCTIONS:
+Place the download unzipped in your 3DM genshin ./mods/ folder
+
+If you get the merge, toggle versions with H
+If you get the unmerged, put only one of the subfolders  in your Mods folder.
+
+If the mod seems broken:
+- Make sure you are not using another mod for the same character. You can only have 1 mod per character in your mods folder, unless you merge them.
+- Make sure that, if you downloaded the unmerged version, you are only putting one subfolder/variation in your mods folder. Otherwise, use the merge
+- 3demigoto can be silly. If only small parts seem broken, go inside a domain.
+- Always disable Dynamic Character Resolution in settings. That doesn't work with mods
+- If the mod is old and broke with patch updates, run the more recent version of this link (has to be updated by Silent!): https://gamebanana.com/tools/16433
+
+
+DETAILS ABOUT THE DESIGN:
+A big chunk of this design is based on theories that Decarabian was a dragon and/or a God King.You can read more about that here https://www.reddit.com/r/Genshin_Lore/comments/1go0qxx/about_ochkanatlan_decarabians_draconic_nature/
+- Sunday's crown was changed to have 4 eyes kinda to hint at 4 shades, and an Eye of Storm since Decarabian was a Storm God
+- Symbols associated with him are included through the textures and mesh, including the one that resembles the lawrence's symbol, and the cercelée
+- Ororon's cloak is painted a bit to resemble dragon wings
+- Other dvalin elements are included too, along with armor-claws and such (thank you captain)
+- Other humanoid dragons that the game has, aka zhongli and neuvilete, have a certain cross-like pin on a side of their coat/suit. So I included that for Decarabian as well, since it seems like a design pattern
+
+

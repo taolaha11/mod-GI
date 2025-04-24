@@ -1,0 +1,34 @@
+Liyue Cyno (Jing Yuan crossover)
+When the trailer showed that Cyno and Tighnari would be present for Lantern Rite, ofc I had to make skins for them. 
+But I've had little free time, so it had to be ports/kitbashes instead of custom models, adjusted to fit the Genshin character.
+And what better model to use for Cyno than Jing Yuan, since they share the same ENG VA?
+
+
+CREDITS:
+- Model and texture changes by Anilyan https://anilyan.carrd.co/
+- Wights by ferventtempod / XilonenMain https://gamebanana.com/members/3882218
+- Base Model is from Honkai Star Rail, specifically from Jing Yuan
+
+
+TERMS OF USE:
+- Mods featured have to credit all authors involved. This can't be redistributed or sold. You can't post changed versions of our mods without permission.
+- 精选模组必须归功于所有参与的作者。 这不能重新分发或出售。 未经许可，您不能发布我们模组的更改版本。
+- 주요 모드는 참여하는 모든 작성자의 이름으로 표시되어야 합니다. 이는 재배포나 판매가 불가능합니다. 귀하는 허가 없이 모드의 변경된 버전을 게시할 수 없습니다.
+- Full terms of use | 使用条款 | 이용 약관:
+	(eng) https://genshin-modding.notion.site/Terms-of-use-e1977c8ab5554624942c9442e581eafa?pvs=4
+	(cn) https://genshin-modding.notion.site/8126e744bd6747db967e35dbc8206252?pvs=4
+	(kr) https://genshin-modding.notion.site/0519d622a05c471b9f58b967f3060ad0?pvs=4
+
+Btw, if you enjoy SFW mods, I have a discord server focused on that: https://discord.com/invite/HcgvjWFCaG
+
+
+INSTRUCTIONS:
+Place the download unzipped in your 3DM genshin ./mods/ folder
+If you get the merge, toggle with P.
+You need to have ORFix in your Mods » BufferValues folder https://github.com/leotorrez/LeoTools/blob/main/releases/ORFix.ini
+
+If the mod seems broken:
+- Make sure you are not using another mod for the same character. You can only have 1 mod per character in your mods folder, unless you merge them.
+- 3demigoto can be silly. If only small parts seem broken, go inside a domain.
+- Always disable Dynamic Character Resolution in settings. That doesn't work with mods
+- If the mod is old and broke with patch updates, run the more recent version of this link (has to be updated by Silent!): https://gamebanana.com/tools/16433

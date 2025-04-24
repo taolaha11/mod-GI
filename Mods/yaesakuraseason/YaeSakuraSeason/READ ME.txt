@@ -1,0 +1,12 @@
+Sakura Season Yae
+
+This is Yae Miko wearing a retextured version of the Silverwing outfit from Bronya, in Honkai Impact 3rd.
+Besides the recoloring, it incorporates some elements from Yae in the petterns, and also comes in 2 hairstyles.
+Toggle between hairstyles with K.
+
+Credits: 
+- Port: mecchi/mimo4e
+- Textures: Anilyan/ari.genshin_skins
+We have a collective patreon with mods in early access: https://www.patreon.com/mimarimods
+
+Don't forget to credit if you feature this mod anywhere!
